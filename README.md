@@ -2,4 +2,7 @@
 This is my portfolio
 
 # These are my projects
-incoming
+Thread Shed
+Blossom
+Towers of Hanoi
+
