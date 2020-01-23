@@ -33,7 +33,7 @@ class Client:
   def sell_artwork(self, artwork, price):
     if artwork.owner == self:
       new_listing = Listing(artwork, price, self)
-      veneer.add_listing(new_listing)
+      veneer.__add__(new_listing)
       
     
 class Listing:
