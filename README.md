@@ -5,4 +5,6 @@ This is my portfolio
 Thread Shed
 Blossom
 Towers of Hanoi
+Escape the Wilderness
+Maze Explorer
 
