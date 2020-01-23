@@ -1,5 +1,5 @@
 # My Portfolio
 This is my portfolio
 
-# These are my private projects
+# These are my projects
 incoming
